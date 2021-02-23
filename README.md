@@ -44,5 +44,5 @@ Once setup is complete all you have to do is run model_data_etl.py using the ful
 ## License and Distribution
 Copyright © 2021 UAH.
 
-Model Data ETL for Lake Atitlan is distributed by UAH under the terms of the MIT License. See LICENSE in this 
+Model Data ETL for Lake Atitlan is distributed by UAH under the terms of the MIT License. See [[https://github.com/Atitlan-GT/model-data-etl/blob/master/LICENSE][LICENSE]] in this 
 directory for more information.
