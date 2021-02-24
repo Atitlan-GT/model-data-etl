@@ -37,6 +37,11 @@ where it can be served as wms to web applications.
 - Open config.Pickle.py and fill in the last six entries as described
 - Open a console and run the configPickle.py file using python 2.7 (you can use the full path to the 
   python in your ArcMap directory.) This will output a new file called config.pkl that the application will use.
+- We also recommend that you open your git terminal and run the following command to remove your config settings 
+  from git tracking so you will avoid accidentally sharing sensitive information. 
+```
+git update-index --skip-worktree configPickle.py
+```
   
 ## Execute the application
 Once setup is complete all you have to do is run model_data_etl.py using the full path to the
