@@ -2,7 +2,7 @@
 
 
 [![Python: 2.7](https://img.shields.io/badge/python-2.7-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Atitlan-GT/model-data-etl/blob/master/LICENSE)
 [![IMapApps: Development](https://img.shields.io/badge/IMapApps-Development-green)](https://imapapps.com)
 
 [Currently in Development]
